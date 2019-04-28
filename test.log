@@ -5,3 +5,4 @@
 [2019-04-27 23:34:14] test_log_name.ERROR: Bar {"f":"e"} []
 [2019-04-28 00:19:29] test_log_name.ERROR: Bar {"f":"e"} []
 [2019-04-28 00:19:42] test_log_name.ERROR: Bar {"f":"e"} []
+[2019-04-28 00:23:27] test_log_name.ERROR: Bar {"f":"e"} []
