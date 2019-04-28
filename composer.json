@@ -1,10 +1,16 @@
 {
   "name": "cocong/test",
   "description": "dsfsfsf",
-  "type": "project",
+  "type": "library",
   "authors": [
       {
           "name": "hzh"
+      }
+  ],
+  "repositories": [
+      {
+          "type": "composer",
+          "url": "https://packagist.phpcomposer.com"
       }
   ],
   "license": "MIT",
