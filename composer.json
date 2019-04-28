@@ -4,7 +4,7 @@
         "php": ">=5.4",
         "monolog/monolog": "1.*"
     },
-    "description": "Third party message push",
+    "description": "It's just a test.",
     "license": "MIT",
     "autoload": {
         "psr-4": {
