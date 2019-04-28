@@ -1,6 +1,14 @@
 {
     "name": "cocong/test",
     "require": {
+        "php": ">=5.4",
         "monolog/monolog": "1.*"
+    },
+    "description": "Third party message push",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CoCong\\": "./"
+        }
     }
 }
