@@ -1,6 +1,8 @@
 {
   "name": "cocong/test",
   "description": "Third party message push",
+  "type": "library",
+  "version": "1.0.0",
   "authors": [
       {
           "name": "hzh"
