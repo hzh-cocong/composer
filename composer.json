@@ -1,0 +1,6 @@
+{
+    "name": "cocong/test",
+    "require": {
+        "monolog/monolog": "1.*"
+    }
+}
