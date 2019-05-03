@@ -12,9 +12,4 @@ echo "ppp";
 echo "mmmm";
 echo "kkk";
 echo "mmm";
-echo 88888888888
-<<<<<<< HEAD
-8888
-=======
-echo lklkklklk
->>>>>>> 89ae007d95279cfbbd10bcc9505d6794f0d80b0d
+echo 88888888888;
