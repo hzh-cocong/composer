@@ -13,4 +13,9 @@ echo "mmmm";
 echo "kkk";
 echo "mmm";
 echo 88888888888
+<<<<<<< HEAD
 hhhsfgsfgs
+=======
+hhh
+888
+>>>>>>> cba07ccdded13b95d4c9f133febd11d2dd840dd1
